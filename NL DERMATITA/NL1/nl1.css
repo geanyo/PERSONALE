@@ -7,23 +7,24 @@
 }
 body {
     font-family: 'Open Sans', sans-serif;
-}
-#nl {
     width: 1300px;
     height: 2900px;
 }
+/* #nl {
+    width: 1300px;
+    height: 2900px;
+} */
 #header {
     background-image: url("gref.jpg");
     background-position: center;
     background-size: cover;
-    /* width: 1300px; */
     height: 374px;
     text-align: left;
 }
 #header p {
     text-align: center;
     font-size: 0.7em;
-    margin-top: 1em;
+    padding: 10px;
 }
 #header h3 {
     text-align: left;
@@ -39,6 +40,23 @@ body {
 }
 span {
     color: rgb(231, 8, 45);
+}
+p.banda1 {
+    background: rgba(0, 0, 0, 0.6);
+    width: 1300px;
+    height: 104px;
+    font-weight: normal;
+    text-align: left;
+    font-size: 1.3em;
+    padding-left: 40px;
+    padding-top: 20px;
+    border-left-color: rgb(231, 8, 45);
+    border-left-style: solid;
+    border-left-width: 40px;
+    color: white;
+}
+sup {
+    color: white;
 }
 
 
