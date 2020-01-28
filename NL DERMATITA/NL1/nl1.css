@@ -3,17 +3,19 @@
     padding: auto;
     margin: auto;
     font-weight: lighter;
-    color: rgba(0, 0, 0, 0.8);
+    /* color: rgba(0, 0, 0, 0.8); */
 }
 body {
     font-family: 'Open Sans', sans-serif;
     width: 1300px;
     height: 2900px;
+    color: rgba(0, 0, 0, 0.8);
 }
-/* #nl {
+#continut {
     width: 1300px;
     height: 2900px;
-} */
+    background-color: rgba(0, 0, 0, 0.1);
+} 
 #header {
     background-image: url("gref.jpg");
     background-position: center;
