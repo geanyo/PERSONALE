@@ -42,7 +42,7 @@ span {
     color: rgb(231, 8, 45);
 }
 p.banda1 {
-    background: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.6);
     width: 1300px;
     height: 104px;
     font-weight: normal;
@@ -57,6 +57,16 @@ p.banda1 {
 }
 sup {
     color: white;
+}
+#titlu1 {
+    font-weight: 700;
+    text-align: left;
+    font-size: 1.3em;  
+    padding-left: 40px;
+    padding-top: 20px;  
+}
+#titlu1 sup {
+    color: rgb(231, 8, 45);
 }
 
 
