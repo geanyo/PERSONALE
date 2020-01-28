@@ -17,7 +17,7 @@ body {
     background-color: rgba(0, 0, 0, 0.1);
 } 
 #header {
-    background-image: url("gref.jpg");
+    background-image: url(https://github.com/geanyo/PERSONALE/blob/master/NL%20DERMATITA/NL1/gref.jpg?raw=true);
     background-position: center;
     background-size: cover;
     height: 374px;
@@ -59,6 +59,7 @@ p.banda1 {
 }
 sup {
     color: white;
+    font-weight: 400;
 }
 #titlu1 {
     font-weight: 700;
